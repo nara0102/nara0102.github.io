@@ -1,18 +1,15 @@
 cv:
   name: Lukman Hakim
-  label: Informatics Engineering Student | Research Assistant
+  label: Research Assistant
   email: lukmankkin@gmail.com
   location: Palu, Central Sulawesi, Indonesia
-  image: ""
-  summary: Informatics Engineering undergraduate at Tadulako University, researching software engineering, applied AI, HCI/UX, and IoT-enabled web systems for maritime and public-service contexts.
+  summary: Final-year Informatics Engineering student at Tadulako University, working on research and community-centered digital systems.
 
   social_networks:
     - network: LinkedIn
       username: lukman-hakim-1nrv
     - network: GitHub
       username: nara0102
-    - network: Kaggle
-      username: pondnaravitt
 
   sections:
     Education:

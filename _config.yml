@@ -123,7 +123,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Visual Journal # curated photography, reviews, and selected stories
-blog_description: Selected photography, place reviews, and stories from community and digital work
+blog_description: Selected photography, reviews, and stories from my work
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
