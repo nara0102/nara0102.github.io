@@ -41,4 +41,3 @@ I served as a **Research Assistant** to the Principal Investigator, **Ir. Dr. Yu
 - [Project video on YouTube](https://youtu.be/6evs0GkH3SM)
 - [Ambesia Fish community branding on Instagram](https://www.instagram.com/amselcatch.id/)
 
-Additional project posters, screenshots, and product media can be added to this page as they are selected for publication.
