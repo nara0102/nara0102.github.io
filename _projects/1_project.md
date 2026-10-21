@@ -34,6 +34,10 @@ I served as a **Research Assistant** to the Principal Investigator, **Ir. Dr. Yu
 - Created visual and instructional materials to explain the system and project activities to community members.
 - Designed posters and impact-report infographics for PDB programme communication, including materials for ministry stakeholders.
 
+## Research evidence
+
+A related study on SITANPAS was published in the **Proceedings of TICEB 2025**. Using survey data from active users and PLS-SEM analysis, the study reports a positive relationship between SITANPAS implementation and user satisfaction (β = 0.82, p < 0.01); the model explains 67% of the variance in user satisfaction. [Read the article](https://ticeb.untad.ac.id/index.php/proceedings/en/article/view/11/11).
+
 ## Project links and media
 
 - [SITANPAS v2 repository](https://github.com/nara0102/SITANPAS-v2)
