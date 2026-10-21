@@ -17,4 +17,4 @@ I contributed as a **System Analyst** and **UI/UX Designer**. My work included o
 
 ## Project status
 
-The collaboration is awaiting further confirmation and coordination. This page will be expanded with a public-safe project overview and selected design materials when they are ready. No internal government data is included here.
+The collaboration is awaiting further confirmation and coordination. Any materials shared here will be limited to public-safe project and design information.
