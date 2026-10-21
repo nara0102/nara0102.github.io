@@ -1,33 +1,33 @@
 cv:
   name: Lukman Hakim
-  label: Research Assistant
+  headline: Final-year Informatics Engineering Student
   email: lukmankkin@gmail.com
   location: Palu, Central Sulawesi, Indonesia
-  summary: Final-year Informatics Engineering student at Tadulako University, working on research and community-centered digital systems.
-
   social_networks:
     - network: LinkedIn
       username: lukman-hakim-1nrv
     - network: GitHub
       username: nara0102
+    - network: Instagram
+      username: chzie_vrce
 
   sections:
     Education:
       - institution: Tadulako University
         location: Palu, Central Sulawesi, Indonesia
         area: Informatics Engineering, Department of Information Technology, Faculty of Engineering
-        studyType: Bachelor of Computer Science (S.Kom.)
-        start_date: 2022
-        end_date: 2026
+        degree: Bachelor of Computer Science (S.Kom.)
+        start_date: "2022"
+        end_date: "2026"
         highlights:
           - Final-year undergraduate student completing a thesis and journal manuscript revision.
 
-    Research Experience:
+    Research and Community Experience:
       - company: Tadulako University — Pemberdayaan Desa Binaan (PDB)
         position: Research Assistant and KKN Tematik Student Team Leader (Ketua Unit)
         location: Desa Ambesia Selatan, Central Sulawesi, Indonesia
-        start_date: 2025-08
-        summary: Supported the SITANPAS research and community implementation programme under Principal Investigator Ir. Dr. Yuli Asmi Rahman, S.T., M.Eng.
+        start_date: "2025-08"
+        summary: Supported SITANPAS research and community implementation under Principal Investigator Ir. Dr. Yuli Asmi Rahman, S.T., M.Eng.
         highlights:
           - Coordinated student-team field activities and community-facing implementation.
           - Contributed to web and IoT coordination, Ambesia Fish branding, visual materials, and intellectual-property facilitation.
@@ -37,16 +37,16 @@ cv:
         authors:
           - Lukman Hakim
           - Yuli Asmi Rahman
-        publisher: ResearchGate working paper / preprint
-        releaseDate: 2026-09
+        journal: ResearchGate working paper / preprint
+        date: "2026-09"
+        doi: 10.13140/RG.2.2.17822.91204
         url: https://www.researchgate.net/publication/414034353_SITANPAS_v2_Evolution_of_a_Digital_Fish-Catch_Information_and_Marketing_Platform_for_South_Ambesia_Central_Sulawesi_Indonesia
-        summary: Documents the evolution of the SITANPAS v2 platform and its manual and IoT-assisted data-entry pathways.
 
-    Projects:
+    Selected Projects:
       - name: SITANPAS
         summary: Fisheries information and marketing platform developed through the PDB and KKN Tematik programme in Desa Ambesia Selatan.
         highlights:
-          - Research assistant to the Principal Investigator and student team leader.
+          - Research Assistant to the Principal Investigator and student team leader.
           - Coordinated ESP32 smart-scale integration with the web platform through ThingSpeak.
           - Led Ambesia Fish brand development and supported community introduction and IP facilitation.
       - name: PATABA
