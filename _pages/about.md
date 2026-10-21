@@ -21,7 +21,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a final-year undergraduate student in Informatics Engineering at Tadulako University (cohort 2022), working toward completing my thesis and revising a journal manuscript. My academic interests include software engineering, machine learning and data science, human-computer interaction, and IoT-enabled web systems, especially for public-sector and maritime applications.
+I am a final-year undergraduate student in Informatics Engineering at Tadulako University (cohort 2022; expected graduation 2026), working toward completing my thesis and revising a journal manuscript. My academic interests include software engineering, machine learning and data science, human-computer interaction, and IoT-enabled web systems, especially for public-sector and maritime applications.
 
 ## Selected projects
 
