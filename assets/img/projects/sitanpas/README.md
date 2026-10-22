@@ -2,12 +2,17 @@
 
 Upload public portfolio images for the SITANPAS project in this folder.
 
-Suggested files:
+files:
+main:
 - `cover.png` — project card or page cover
-- `ambesia-fish-brand.png` — brand identity or packaging
+
+digital content production:
+- `ambesia-fish-brand.png` — brand identity
 - `poster-pdb.png` — PDB programme poster
 - `poster-marketing.png` — marketing poster
-- `field-activity-01.png` — community activity photo
+- `pamflet.png` — poster pamflet photo champion
 - `system-dashboard.png` — public-safe screenshot of the platform
+- `logo-kknt.png` - kknt logo
+- `filosofi-logo.png` - the philosophy of logo kknt 
 
 Use `.png`, `.jpg`, or `.webp`. Keep images reasonably compressed for faster page loading. Avoid uploading personal data or community information without permission.
