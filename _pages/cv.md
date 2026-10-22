@@ -1,10 +1,9 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_format: rendercv
 description: Education, experience, research support, and technical skills of Lukman Hakim.
 toc:
   sidebar: left
@@ -12,7 +11,7 @@ toc:
 
 ## Curriculum Vitae
 
-The current CV is available below as a PDF preview and download. This version is a general professional profile and can be tailored for specific applications.
+The current CV is available below as a PDF preview and download. This is a general professional profile that can be tailored for specific applications.
 
 {% assign cv_pdf_path = '/assets/rendercv/rendercv_output/Lukman_Hakim_CV.pdf' | relative_url %}
 <p><a class="btn btn-primary" href="{{ cv_pdf_path }}" download>Download CV (PDF)</a></p>
