@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Final-year Informatics Engineering student at Tadulako University · Research Assistant · Software Engineering, Applied AI, HCI/UX
+subtitle: Informatics Engineering student at Tadulako University · Research Assistant · KKN Tematik Team Leader · Software Engineering, Data Science & UI/UX
 
 profile:
   align: right
@@ -10,6 +10,8 @@ profile:
   image_circular: false
   more_info: >
     <p><a href="mailto:lukmankkin@gmail.com">lukmankkin@gmail.com</a></p>
+    <p><a href="tel:+6282247376056">+62 822 4737 6056</a></p>
+    <p>Jl. Basuki Rahmat, Tatura Selatan, Palu, Central Sulawesi, Indonesia</p>
 
 selected_papers: false
 social: true
@@ -21,20 +23,16 @@ latest_posts:
   enabled: false
 ---
 
-I am an Informatics Engineering undergraduate at **Tadulako University**, where I study in the Department of Information Technology, Faculty of Engineering. I entered in 2022 and expect to complete my **Bachelor of Computer Science (S.Kom.) in 2026**. I am currently completing my undergraduate thesis and revising a journal manuscript.
+I am an Informatics Engineering undergraduate at **Tadulako University**, in the Department of Information Technology, Faculty of Engineering. I entered in 2022 and am completing my thesis and journal manuscript revisions as I work toward my **Bachelor of Computer Science (S.Kom.)** degree.
 
-My interests include **software engineering, machine learning and data science, human-computer interaction (HCI/UI/UX), and IoT-enabled web systems**. I am especially interested in applying these areas to maritime communities and public services.
+My interests span **software engineering, machine learning and data science, human-computer interaction (HCI/UI/UX), and IoT-enabled web systems**. I am interested in applying technology to practical needs in maritime communities and public services.
 
-## Research and project work
+## Research and project experience
 
-### SITANPAS
+For the **Pemberdayaan Desa Binaan (PDB)** programme in Desa Ambesia Selatan, I serve as a **Research Assistant** to Principal Investigator **Ir. Dr. Yuli Asmi Rahman, S.T., M.Eng.**, and as **Ketua Unit (Student Team Leader)** for the Thematic Community Service (KKN-T) team. I coordinate student activities and help connect research, technical implementation, and community participation. My work includes SITANPAS web and IoT coordination, development and introduction of the **Ambesia Fish** identity, visual communication, and intellectual-property registration support. [Explore the SITANPAS project](https://nara0102.github.io/projects/1_project/).
 
-For the **Pemberdayaan Desa Binaan (PDB)** programme in Desa Ambesia Selatan, I work as a **Research Assistant** under Principal Investigator **Ir. Dr. Yuli Asmi Rahman, S.T., M.Eng.**, and served as **Ketua Unit (Student Team Leader)** for the Thematic Community Service (KKN-T) student team. I coordinated field activities and helped connect the research, technical implementation, and community adoption.
+I have also worked as a **Junior Data Scientist Intern** through the MSIB programme and completed a school internship supporting IT and administrative work at the **North Morowali Communication and Informatics Office**.
 
-My contributions include coordinating the SITANPAS web and IoT work, leading the **Ambesia Fish** brand identity and community introduction, preparing visual communication materials, and facilitating copyright and trademark registration processes. [Explore the SITANPAS project](https://nara0102.github.io/projects/1_project/), [view the project repository](https://github.com/nara0102/SITANPAS-v2), or [see the working paper](https://doi.org/10.13140/RG.2.2.17822.91204).
+For **PATABA (Portal Aset Tanah Pemerintah Daerah)**, a website collaboration with **BPKAD Kota Palu**, I contributed as a **System Analyst and UI/UX Designer**. I worked with the project team to understand client needs and shape the requirements and interface direction. The work is awaiting the next budget cycle before finishing and deployment. [View the PATABA project summary](https://nara0102.github.io/projects/2_project/).
 
-### PATABA
-
-**PATABA (Portal Aset Tanah Pemerintah Daerah)** is a website-development collaboration with **BPKAD Kota Palu**. As System Analyst and UI/UX Designer, I observed workflows, analyzed requirements, prepared scope-of-work documentation, and developed a government-service UX concept. The collaboration is awaiting further coordination and budget clarity; the portfolio summary describes my work without presenting the system as a completed deployment. [View the project summary](https://nara0102.github.io/projects/2_project/).
-
-I am building this site to document my academic work, research, and project outputs. For academic or professional inquiries, email [lukmankkin@gmail.com](mailto:lukmankkin@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/lukman-hakim-1nrv/) and [GitHub](https://github.com/nara0102).
+I use this site to share my academic work, research, and project outputs. For academic or professional inquiries, contact me at [lukmankkin@gmail.com](mailto:lukmankkin@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/lukman-hakim-1nrv/) and [GitHub](https://github.com/nara0102).

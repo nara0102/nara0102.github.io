@@ -1,8 +1,10 @@
 cv:
   name: Lukman Hakim
-  headline: Final-year Informatics Engineering Student
+  headline: Informatics Engineering Student | Research Assistant | Data Science & UI/UX
   email: lukmankkin@gmail.com
-  location: Palu, Central Sulawesi, Indonesia
+  phone: "+62 822 4737 6056"
+  location: Jl. Basuki Rahmat, Tatura Selatan, Palu, Central Sulawesi, Indonesia
+  website: https://nara0102.github.io
   social_networks:
     - network: LinkedIn
       username: lukman-hakim-1nrv
@@ -10,6 +12,8 @@ cv:
       username: nara0102
     - network: Instagram
       username: chzie_vrce
+    - network: ResearchGate
+      username: Lukman-Hakim-112
 
   sections:
     Education:
@@ -18,40 +22,85 @@ cv:
         area: Informatics Engineering, Department of Information Technology, Faculty of Engineering
         degree: Bachelor of Computer Science (S.Kom.)
         start_date: "2022"
-        end_date: "2026"
+        end_date: present
         highlights:
-          - Final-year undergraduate student completing a thesis and journal manuscript revision.
+          - Final-year undergraduate student completing a thesis and revising a journal manuscript.
+      - institution: SMK Rahmani Beteleme
+        location: Beteleme Village, Lembo District, North Morowali Regency, Central Sulawesi, Indonesia
+        area: Computer and Network Engineering
+        degree: Vocational High School
+        start_date: "2019"
+        end_date: "2022"
+        highlights:
+          - Active in Scout activities and achieved Bantara rank.
+          - Completed an internship (PKL) at the North Morowali Communication and Informatics Office.
+      - institution: SMP Negeri 1 Lembo Raya
+        location: Jamor Jaya Village, Lembo Raya District, North Morowali Regency, Central Sulawesi, Indonesia
+        area: General Studies
+        degree: Junior High School
+        start_date: "2016"
+        end_date: "2019"
+        highlights:
+          - Represented the school twice in district-level National Science Olympiad (OSN) competitions in Natural Sciences.
+          - Participated in a district-level creative dance competition and school Scout activities.
+          - Helped with family retail and market sales, developing customer service, responsibility, and practical teamwork.
+      - institution: SD Negeri Jamor Jaya
+        location: Jamor Jaya Village, Lembo District, Morowali Regency, Central Sulawesi, Indonesia
+        area: General Studies
+        degree: Elementary School
+        start_date: "2010"
+        end_date: "2016"
+        highlights:
+          - Participated in sub-district OLS2N and FLS2N competitions.
+      - institution: TK Larokumpi Jamor Jaya
+        location: Jamor Jaya Village, Lembo District, Morowali Regency, Central Sulawesi, Indonesia
+        area: Early Childhood Education
+        degree: Kindergarten
+        start_date: "2009"
+        end_date: "2010"
 
-    Research and Community Experience:
+    Experience:
       - company: Tadulako University — Pemberdayaan Desa Binaan (PDB)
         position: Research Assistant and KKN Tematik Student Team Leader (Ketua Unit)
         location: Desa Ambesia Selatan, Central Sulawesi, Indonesia
         start_date: "2025-08"
+        end_date: present
         summary: Supported SITANPAS research and community implementation under Principal Investigator Ir. Dr. Yuli Asmi Rahman, S.T., M.Eng.
         highlights:
-          - Coordinated student-team field activities and community-facing implementation.
-          - Contributed to web and IoT coordination, Ambesia Fish branding, visual materials, and intellectual-property facilitation.
-
-    Publications:
-      - title: "SITANPAS v2: Evolution of a Digital Fish-Catch Information and Marketing Platform for South Ambesia, Central Sulawesi, Indonesia"
-        authors:
-          - Lukman Hakim
-          - Yuli Asmi Rahman
-        journal: ResearchGate working paper / preprint
-        date: "2026-09"
-        doi: 10.13140/RG.2.2.17822.91204
-        url: https://www.researchgate.net/publication/414034353_SITANPAS_v2_Evolution_of_a_Digital_Fish-Catch_Information_and_Marketing_Platform_for_South_Ambesia_Central_Sulawesi_Indonesia
-
-    Selected Projects:
-      - name: SITANPAS
-        summary: Fisheries information and marketing platform developed through the PDB and KKN Tematik programme in Desa Ambesia Selatan.
+          - Led and coordinated a cross-functional student team during field implementation and community activities.
+          - Coordinated ESP32 smart-scale integration with the SITANPAS web platform through the ThingSpeak API, and supported platform administration and data monitoring.
+          - Led Ambesia Fish brand identity work, including logo, packaging, and brand-guideline design; presented the brand and supported its introduction and use with the community.
+          - Facilitated copyright recording and assisted with trademark registration through DJKI.
+          - Created visual communication materials and supported system socialization with four fishing groups.
+      - company: PT Vinix Seven Aurum, through PT Inovasi Lentera Cipta Kreasi
+        position: Junior Data Scientist Intern (MSIB)
+        location: Yogyakarta, Indonesia (Remote)
+        start_date: "2025-02"
+        end_date: "2025-05"
         highlights:
-          - Research Assistant to the Principal Investigator and student team leader.
-          - Coordinated ESP32 smart-scale integration with the web platform through ThingSpeak.
-          - Led Ambesia Fish brand development and supported community introduction and IP facilitation.
-      - name: PATABA
-        summary: Website-development collaboration with BPKAD Kota Palu concerning local-government land-asset information.
+          - Completed an internship focused on data science, data analysis, and data-driven decision support.
+          - Worked with data acquisition, cleaning, exploratory analysis, visualization, statistical analysis, business intelligence, and predictive modeling.
+          - Curated, cleaned, and published an Indonesian public-university international undergraduate-program dataset on Kaggle as a final project.
+      - company: Dinas Komunikasi dan Informatika Kabupaten Morowali Utara
+        position: IT and Administrative Support Intern (Praktik Kerja Lapangan)
+        location: North Morowali Regency, Central Sulawesi, Indonesia
+        start_date: "2020-11"
+        end_date: "2021-05"
         highlights:
-          - System analysis and workflow observation.
-          - Requirements and scope-of-work documentation.
-          - UX concept for a government service; collaboration awaiting further coordination.
+          - Supported general administrative work and day-to-day office operations.
+          - Assisted IT staff with technical and operational tasks and basic hardware and software maintenance.
+          - Built experience in workplace communication, organization, and teamwork.
+
+    Skills:
+      - label: Software and Web
+        details: Python, Django, JavaScript, SQL, HTML, CSS, Supabase, REST APIs, Git, GitHub
+      - label: Data Science and Applied AI
+        details: Data cleaning, exploratory data analysis, data visualization, Pandas, Scikit-learn, TF-IDF, cosine similarity, machine learning, generative AI
+      - label: Research and Product Design
+        details: Research and development, requirements analysis, system deployment, UI/UX design, Figma, visual communication, branding, field coordination
+      - label: Platforms
+        details: Kaggle (pondnaravitt), ThingSpeak, Supabase
+
+    Certifications:
+      - label: Programming and Data Training
+        details: Pengenalan ke Logika Pemrograman (Programming Logic 101); Belajar Dasar Git dengan GitHub; Belajar Analisis Data dengan Python; Belajar Dasar Visualisasi Data; Belajar Machine Learning untuk Pemula
