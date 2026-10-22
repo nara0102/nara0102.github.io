@@ -3,17 +3,17 @@ cv:
   headline: Informatics Engineering Student | Research Assistant | Data Science & UI/UX
   email: lukmankkin@gmail.com
   phone: "+62 822 4737 6056"
-  location: Palu, Central Sulawesi, Indonesia
+  location: Jl. Basuki Rahmat, Tatura Selatan, Palu, Central Sulawesi, Indonesia
   website: https://nara0102.github.io
   social_networks:
     - network: LinkedIn
       username: lukman-hakim-1nrv
     - network: GitHub
       username: nara0102
+    - network: Instagram
+      username: chzie_vrce
     - network: ResearchGate
       username: Lukman-Hakim-112
-    - network: Kaggle
-      username: pondnaravitt
 
   sections:
     Education:
@@ -99,7 +99,7 @@ cv:
       - label: Research and Product Design
         details: Research and development, requirements analysis, system deployment, UI/UX design, Figma, visual communication, branding, field coordination
       - label: Platforms
-        details: Kaggle, ThingSpeak, Supabase
+        details: Kaggle (pondnaravitt), ThingSpeak, Supabase
 
     Certifications:
       - label: Programming and Data Training
