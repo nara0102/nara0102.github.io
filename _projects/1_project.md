@@ -2,7 +2,7 @@
 layout: page
 title: SITANPAS — Fisheries Information & Community Implementation
 description: Research assistance and student team leadership for the PDB KKN Tematik project in Desa Ambesia Selatan.
-img:
+img: assets/img/projects/sitanpas/cover.png
 importance: 1
 category: portfolio
 ---
@@ -34,13 +34,23 @@ I served as a **Research Assistant** to the Principal Investigator, **Ir. Dr. Yu
 - Created visual and instructional materials to explain the system and project activities to community members.
 - Designed posters and impact-report infographics for PDB programme communication, including materials for ministry stakeholders.
 
+## SITANPAS visual identity
+
+The project cover shows the SITANPAS work. The **KKNT team logo** was designed collaboratively with my fellow students; the companion graphic explains the logo's philosophy.
+
+![SITANPAS project cover]({{ '/assets/img/projects/sitanpas/cover.png' | relative_url }})
+
+![KKNT team logo, designed collaboratively with fellow students]({{ '/assets/img/projects/sitanpas/logo-kknt.png' | relative_url }})
+
+![Philosophy behind the KKNT logo]({{ '/assets/img/projects/sitanpas/filosofi-logo.png' | relative_url }})
+
 ## Research outputs and evidence
 
 I co-authored a **September 2026 working paper/preprint** with **Yuli Asmi Rahman** documenting SITANPAS v2's evolution, including role-based user management, product and inventory workflows, order status, admin dashboard, and manual and IoT-assisted data entry. The paper describes historical IoT evidence and software implementation; it does not evaluate renewed community deployment, long-term adoption, or economic impact. [Read the working paper on ResearchGate](https://www.researchgate.net/publication/414034353_SITANPAS_v2_Evolution_of_a_Digital_Fish-Catch_Information_and_Marketing_Platform_for_South_Ambesia_Central_Sulawesi_Indonesia) · DOI: [10.13140/RG.2.2.17822.91204](https://doi.org/10.13140/RG.2.2.17822.91204).
 
 A related study on SITANPAS was published in the **Proceedings of TICEB 2025**. Using survey data from active users and PLS-SEM analysis, the study reports a positive relationship between SITANPAS implementation and user satisfaction (β = 0.82, p < 0.01); the model explains 67% of the variance in user satisfaction. [Read the article](https://ticeb.untad.ac.id/index.php/proceedings/en/article/view/11/11). This is a related project study, not a paper authored by me.
 
-## Project links and media
+## Project links
 
 - [SITANPAS v2 repository](https://github.com/nara0102/SITANPAS-v2)
 - [LinkedIn project overview and materials](https://lnkd.in/p/g7NYidue)
