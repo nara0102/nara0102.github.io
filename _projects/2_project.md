@@ -17,11 +17,17 @@ I contributed as a **System Analyst** and **UI/UX Designer**. My work included o
 
 ## Design materials
 
-The project mark and dashboard design below are portfolio materials. The dashboard is shown as a design artifact and does not imply that the system has been deployed.
+The project mark and dashboard design below are portfolio materials. The dashboard is shown as a design artifact and does not imply that the system has been deployed. Both images are constrained to a responsive display frame.
 
-![PATABA logo design]({{ '/assets/img/projects/pataba/pataba-logo.png' | relative_url }})
+<figure>
+  <img src="{{ '/assets/img/projects/pataba/pataba-logo.png' | relative_url }}" alt="PATABA logo design" style="display:block; max-width:100%; max-height:420px; width:auto; height:auto; object-fit:contain; margin:0 auto;">
+  <figcaption>PATABA logo design.</figcaption>
+</figure>
 
-![PATABA dashboard design concept]({{ '/assets/img/projects/pataba/pataba-dashboard.png' | relative_url }})
+<figure>
+  <img src="{{ '/assets/img/projects/pataba/pataba-dashboard.png' | relative_url }}" alt="PATABA dashboard design concept" style="display:block; max-width:100%; max-height:420px; width:auto; height:auto; object-fit:contain; margin:0 auto;">
+  <figcaption>PATABA dashboard design concept.</figcaption>
+</figure>
 
 ## Project status
 

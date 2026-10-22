@@ -11,6 +11,11 @@ category: portfolio
 
 **SITANPAS** (Sistem Informasi Tangkapan Nelayan dan Pemasaran) is a digital fisheries information and marketing initiative developed through the **Pemberdayaan Desa Binaan (PDB)** programme in **Desa Ambesia Selatan**. The work combined research, community engagement, product branding, and a web and IoT system.
 
+<figure>
+  <img src="{{ '/assets/img/projects/sitanpas/cover.png' | relative_url }}" alt="SITANPAS project cover" style="display:block; max-width:100%; max-height:420px; width:auto; height:auto; object-fit:contain; margin:0 auto;">
+  <figcaption>SITANPAS project cover.</figcaption>
+</figure>
+
 ## Role and leadership
 
 I served as a **Research Assistant** to the Principal Investigator, **Ir. Dr. Yuli Asmi Rahman, S.T., M.Eng.**, and as **Ketua Unit (Student Team Leader)** for the Thematic Community Service (KKN-T) student team. I coordinated field activities and helped connect the research, technical work, and community implementation.
@@ -36,13 +41,56 @@ I served as a **Research Assistant** to the Principal Investigator, **Ir. Dr. Yu
 
 ## SITANPAS visual identity
 
-The project cover shows the SITANPAS work. The **KKNT team logo** was designed collaboratively with my fellow students; the companion graphic explains the logo's philosophy.
+The **KKNT team logo** was designed collaboratively with my fellow students. The accompanying graphic presents the philosophy behind the logo.
 
-![SITANPAS project cover]({{ '/assets/img/projects/sitanpas/cover.png' | relative_url }})
+<figure>
+  <img src="{{ '/assets/img/projects/sitanpas/logo-kknt.png' | relative_url }}" alt="KKNT team logo designed collaboratively with fellow students" style="display:block; max-width:100%; max-height:420px; width:auto; height:auto; object-fit:contain; margin:0 auto;">
+  <figcaption>KKNT team logo, created collaboratively with fellow students.</figcaption>
+</figure>
 
-![KKNT team logo, designed collaboratively with fellow students]({{ '/assets/img/projects/sitanpas/logo-kknt.png' | relative_url }})
+<figure>
+  <img src="{{ '/assets/img/projects/sitanpas/filosofi-logo.png' | relative_url }}" alt="Philosophy behind the KKNT logo" style="display:block; max-width:100%; max-height:420px; width:auto; height:auto; object-fit:contain; margin:0 auto;">
+  <figcaption>Design philosophy of the KKNT logo.</figcaption>
+</figure>
 
-![Philosophy behind the KKNT logo]({{ '/assets/img/projects/sitanpas/filosofi-logo.png' | relative_url }})
+## Digital content production
+
+The project also produced brand assets, programme posters, and a public-safe platform visual. Each image is displayed within a responsive frame, with a maximum width of 100% and height of 420 pixels.
+
+### Ambesia Fish brand
+
+<figure>
+  <img src="{{ '/assets/img/projects/sitanpas/ambesia-fish-brand.png' | relative_url }}" alt="Ambesia Fish brand design" style="display:block; max-width:100%; max-height:420px; width:auto; height:auto; object-fit:contain; margin:0 auto;">
+  <figcaption>Ambesia Fish brand design.</figcaption>
+</figure>
+
+### PDB programme poster
+
+<figure>
+  <img src="{{ '/assets/img/projects/sitanpas/poster-pdb.png' | relative_url }}" alt="PDB programme poster" style="display:block; max-width:100%; max-height:420px; width:auto; height:auto; object-fit:contain; margin:0 auto;">
+  <figcaption>Poster presenting the PDB programme.</figcaption>
+</figure>
+
+### Marketing poster
+
+<figure>
+  <img src="{{ '/assets/img/projects/sitanpas/poster-marketing.png' | relative_url }}" alt="SITANPAS marketing poster" style="display:block; max-width:100%; max-height:420px; width:auto; height:auto; object-fit:contain; margin:0 auto;">
+  <figcaption>SITANPAS marketing poster.</figcaption>
+</figure>
+
+### KKNT competition pamphlet
+
+<figure>
+  <img src="{{ '/assets/img/projects/sitanpas/pamflet.png' | relative_url }}" alt="Pamphlet created for a competition during the KKN programme" style="display:block; max-width:100%; max-height:420px; width:auto; height:auto; object-fit:contain; margin:0 auto;">
+  <figcaption>Pamphlet created for a competition during the KKN programme.</figcaption>
+</figure>
+
+### SITANPAS platform dashboard
+
+<figure>
+  <img src="{{ '/assets/img/projects/sitanpas/system-dashboard.png' | relative_url }}" alt="Public-safe screenshot of the SITANPAS platform dashboard" style="display:block; max-width:100%; max-height:420px; width:auto; height:auto; object-fit:contain; margin:0 auto;">
+  <figcaption>Public-safe view of the SITANPAS platform.</figcaption>
+</figure>
 
 ## Research outputs and evidence
 
