@@ -6,7 +6,7 @@ subtitle: Final-year Informatics Engineering student at Tadulako University · R
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.png
   image_circular: false
   more_info: >
     <p><a href="mailto:lukmankkin@gmail.com">lukmankkin@gmail.com</a></p>
@@ -31,7 +31,7 @@ My interests include **software engineering, machine learning and data science, 
 
 For the **Pemberdayaan Desa Binaan (PDB)** programme in Desa Ambesia Selatan, I work as a **Research Assistant** under Principal Investigator **Ir. Dr. Yuli Asmi Rahman, S.T., M.Eng.**, and served as **Ketua Unit (Student Team Leader)** for the Thematic Community Service (KKN-T) student team. I coordinated field activities and helped connect the research, technical implementation, and community adoption.
 
-My contributions include coordinating the SITANPAS web and IoT work, leading the **Ambesia Fish** brand identity and community introduction, preparing visual communication materials, and facilitating copyright and trademark registration processes. [Explore the SITANPAS project](https://nara0102.github.io/projects/1_project/), [view the project repository](https://github.com/nara0102/SITANPAS-v2), or [see the working paper](https://www.researchgate.net/publication/414034353_SITANPAS_v2_Evolution_of_a_Digital_Fish-Catch_Information_and_Marketing_Platform_for_South_Ambesia_Central_Sulawesi_Indonesia).
+My contributions include coordinating the SITANPAS web and IoT work, leading the **Ambesia Fish** brand identity and community introduction, preparing visual communication materials, and facilitating copyright and trademark registration processes. [Explore the SITANPAS project](https://nara0102.github.io/projects/1_project/), [view the project repository](https://github.com/nara0102/SITANPAS-v2), or [see the working paper](https://doi.org/10.13140/RG.2.2.17822.91204).
 
 ### PATABA
 
