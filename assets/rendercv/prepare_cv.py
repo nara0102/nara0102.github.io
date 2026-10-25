@@ -14,4 +14,7 @@ cv["location"] = ", ".join(
     value for value in (address.get("street"), address.get("city"), address.get("region")) if value
 )
 cv.pop("summary", None)
+for entry in cv.get("sections", {}).get("Skills", []):
+    if isinstance(entry.get("keywords"), list):
+        entry["keywords"] = ", ".join(entry["keywords"])
 target.write_text(yaml.safe_dump(data, sort_keys=False, allow_unicode=True), encoding="utf-8")
