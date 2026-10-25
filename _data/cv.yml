@@ -1,10 +1,18 @@
 cv:
   name: Lukman Hakim
-  headline: Informatics Engineering Student | Research Assistant | Data Science & UI/UX
+  label: Informatics Engineering Student | Research Assistant | Data Science & UI/UX
   email: lukmankkin@gmail.com
   phone: "+62 822 4737 6056"
-  location: Jl. Basuki Rahmat, Tatura Selatan, Palu, Central Sulawesi, Indonesia
+  address:
+    street: Jl. Basuki Rahmat, Tatura Selatan
+    city: Palu
+    region: Sulawesi Tengah, Indonesia
   website: https://nara0102.github.io
+  summary: >-
+    Final-year Informatics Engineering student at Tadulako University with practical
+    experience in community-based research, student-team leadership, IoT-enabled web
+    implementation, data science, and visual brand communication. Combines structured
+    technical analysis with user-centered design, content production, and field coordination.
   social_networks:
     - network: LinkedIn
       username: lukman-hakim-1nrv
@@ -33,7 +41,7 @@ cv:
         end_date: "2022"
         highlights:
           - Active in Scout activities and achieved Bantara rank.
-          - Completed an internship (PKL) at the North Morowali Communication and Informatics Office.
+          - Completed a vocational internship at the North Morowali Communication and Informatics Office.
       - institution: SMP Negeri 1 Lembo Raya
         location: Jamor Jaya Village, Lembo Raya District, North Morowali Regency, Central Sulawesi, Indonesia
         area: General Studies
@@ -43,7 +51,7 @@ cv:
         highlights:
           - Represented the school twice in district-level National Science Olympiad (OSN) competitions in Natural Sciences.
           - Participated in a district-level creative dance competition and school Scout activities.
-          - Helped with family retail and market sales, developing customer service, responsibility, and practical teamwork.
+          - Helped with family retail and market sales, building customer-service, responsibility, and teamwork skills.
       - institution: SD Negeri Jamor Jaya
         location: Jamor Jaya Village, Lembo District, Morowali Regency, Central Sulawesi, Indonesia
         area: General Studies
@@ -65,20 +73,20 @@ cv:
         location: Desa Ambesia Selatan, Central Sulawesi, Indonesia
         start_date: "2025-08"
         end_date: present
-        summary: Supported SITANPAS research and community implementation under Principal Investigator Ir. Dr. Yuli Asmi Rahman, S.T., M.Eng.
+        summary: Supported SITANPAS research and field implementation under Principal Investigator Ir. Dr. Yuli Asmi Rahman, S.T., M.Eng.
         highlights:
-          - Led and coordinated a cross-functional student team during field implementation and community activities.
-          - Coordinated ESP32 smart-scale integration with the SITANPAS web platform through the ThingSpeak API, and supported platform administration and data monitoring.
-          - Led Ambesia Fish brand identity work, including logo, packaging, and brand-guideline design; presented the brand and supported its introduction and use with the community.
-          - Facilitated copyright recording and assisted with trademark registration through DJKI.
-          - Created visual communication materials and supported system socialization with four fishing groups.
+          - Led and coordinated the cross-functional student team during field implementation and community activities.
+          - Coordinated integration of ESP32 smart scales with the SITANPAS web platform through the ThingSpeak API; supported platform administration and catch-data monitoring.
+          - Led collaborative development of Ambesia Fish brand identity, including logo, packaging, and brand guidelines; presented the brand and supported its introduction to the community.
+          - Produced visual communication and digital-content materials, and supported copyright recording and trademark registration through DJKI.
+          - Supported system socialization with four fishing groups.
       - company: PT Vinix Seven Aurum, through PT Inovasi Lentera Cipta Kreasi
         position: Junior Data Scientist Intern (MSIB)
         location: Yogyakarta, Indonesia (Remote)
         start_date: "2025-02"
         end_date: "2025-05"
         highlights:
-          - Completed an internship focused on data science, data analysis, and data-driven decision support.
+          - Completed an internship focused on data science, data analysis, and data-informed decision support.
           - Worked with data acquisition, cleaning, exploratory analysis, visualization, statistical analysis, business intelligence, and predictive modeling.
           - Curated, cleaned, and published an Indonesian public-university international undergraduate-program dataset on Kaggle as a final project.
       - company: Dinas Komunikasi dan Informatika Kabupaten Morowali Utara
@@ -92,15 +100,18 @@ cv:
           - Built experience in workplace communication, organization, and teamwork.
 
     Skills:
-      - label: Software and Web
-        details: Python, Django, JavaScript, SQL, HTML, CSS, Supabase, REST APIs, Git, GitHub
-      - label: Data Science and Applied AI
-        details: Data cleaning, exploratory data analysis, data visualization, Pandas, Scikit-learn, TF-IDF, cosine similarity, machine learning, generative AI
-      - label: Research and Product Design
-        details: Research and development, requirements analysis, system deployment, UI/UX design, Figma, visual communication, branding, field coordination
-      - label: Platforms
-        details: Kaggle (pondnaravitt), ThingSpeak, Supabase
+      - name: Graphic Design and Digital Content
+        keywords: Canva, Figma, UI/UX design, brand identity, packaging design, visual communication, photography, short-form video editing, digital content production
+      - name: Software, Web, and IoT
+        keywords: Python, Django, JavaScript, SQL, HTML, CSS, Supabase, REST APIs, ESP32, ThingSpeak, Git, GitHub
+      - name: Data Science and Applied AI
+        keywords: Data cleaning, exploratory data analysis, data visualization, Pandas, Scikit-learn, TF-IDF, cosine similarity, predictive modeling, generative AI
+      - name: Research and Project Coordination
+        keywords: Research and development, requirements analysis, system analysis, field coordination, community engagement, intellectual-property facilitation
 
-    Certifications:
-      - label: Programming and Data Training
-        details: Pengenalan ke Logika Pemrograman (Programming Logic 101); Belajar Dasar Git dengan GitHub; Belajar Analisis Data dengan Python; Belajar Dasar Visualisasi Data; Belajar Machine Learning untuk Pemula
+    Certificates:
+      - name: Pengenalan ke Logika Pemrograman (Programming Logic 101)
+      - name: Belajar Dasar Git dengan GitHub
+      - name: Belajar Analisis Data dengan Python
+      - name: Belajar Dasar Visualisasi Data
+      - name: Belajar Machine Learning untuk Pemula
