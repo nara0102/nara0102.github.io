@@ -1,3 +1,5 @@
+"""Convert the website CV fields into RenderCV's supported profile schema."""
+
 from pathlib import Path
 
 import yaml
