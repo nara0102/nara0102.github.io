@@ -101,13 +101,47 @@ cv:
 
     Skills:
       - name: Graphic Design and Digital Content
-        keywords: Canva, Figma, UI/UX design, brand identity, packaging design, visual communication, photography, short-form video editing, digital content production
+        keywords:
+          - Canva
+          - Figma
+          - UI/UX design
+          - Brand identity
+          - Packaging design
+          - Visual communication
+          - Photography
+          - Short-form video editing
+          - Digital content production
       - name: Software, Web, and IoT
-        keywords: Python, Django, JavaScript, SQL, HTML, CSS, Supabase, REST APIs, ESP32, ThingSpeak, Git, GitHub
+        keywords:
+          - Python
+          - Django
+          - JavaScript
+          - SQL
+          - HTML and CSS
+          - Supabase
+          - REST APIs
+          - ESP32
+          - ThingSpeak
+          - Git and GitHub
       - name: Data Science and Applied AI
-        keywords: Data cleaning, exploratory data analysis, data visualization, Pandas, Scikit-learn, TF-IDF, cosine similarity, predictive modeling, generative AI
+        keywords:
+          - Data cleaning
+          - Exploratory data analysis
+          - Data visualization
+          - Pandas
+          - Scikit-learn
+          - TF-IDF
+          - Cosine similarity
+          - Predictive modeling
+          - Generative AI
       - name: Research and Project Coordination
-        keywords: Research and development, requirements analysis, system analysis, field coordination, community engagement, intellectual-property facilitation
+        keywords:
+          - Research and development
+          - Requirements analysis
+          - System analysis
+          - Field coordination
+          - Community engagement
+          - Intellectual-property facilitation
 
     Certificates:
       - name: Pengenalan ke Logika Pemrograman (Programming Logic 101)
